@@ -5,3 +5,4 @@
 //we use erc20 standard for creating this token
 // to rewarding the user create 2nd dummy token
 //this will offer to user for staking there tether
+//use ganache
